@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Merriweather:ital,wght@0,700;1,300;1,700&family=Rubik+Maze&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+   
+    background: rgba(0, 0, 0, 0.638);
+}
+
+.header{
+    background: rgb(54, 29, 29);
+    color: white;
+    text-align: center;
+    font-family: Georgia;
+}
+
+/* .workpage{
+    /* font-family: 'Gill Sans',; */
+/* } */ 
+
+
+.work1{
+    width: 70%;
+    height: 300px;
+    /* border: 2px solid brown; */
+    margin-top: 50px;
+    margin-left: 15%;
+    display: flex;
+}
+
+
+.description{
+    width: 50%;
+    height: 100%;
+    float: left;
+    /* border: 2px solid black; */
+    background: white;
+    background: rgb(11, 233, 115);
+}
+
+.work1 .img{
+width: 50%;
+height: 100%;
+float: right;
+/* border: 2px solid gold; */
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.work2{
+    width: 70%;
+    height: 300px;
+    border: 2px solid rgba(0, 0, 0, 0.226);
+    margin-top: 50px;
+    margin-left: 15%;
+    display: flex;
+}
+.img2{
+    margin-left: 65px;
+    background: black !important;
+    
+
+}
+
+.description2{
+    width: 50%;
+    height: 100%;
+    float: left;
+    /* border: 2px solid black; */
+    background: white;
+    background: rgb(11, 233, 115);
+}
+
+.work1 .img2{
+width: 50%;
+height: 100%;
+float: right;
+}
+
+.work3{
+    width: 70%;
+    height: 300px;
+    /* border: 2px solid brown; */
+    margin-top: 50px;
+    margin-left: 15%;
+    display: flex;
+    position: relative;
+}
+img{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.description3{
+    width: 50%;
+    height: 100%;
+    float: left;
+    /* border: 2px solid black; */
+    background: rgb(11, 233, 115);
+    padding-right: 40px;
+}
+
+.work1 .img3{
+width: 50%;
+height: 100%;
+float: right;
+/* border: 2px solid gold; */
+}
+
+
+.workp{
+    /* text-align: center; */
+    margin-top: 15px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+    color: blue;
+    padding-right: 5px;
+    
+}
+
+
+.visitbtn{
+    margin-top: 30px;
+    padding: 6px;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-left: 10px;
+    
+}
+
+.visitbtn:hover{
+    background: black;
+    color: white;
+}
+
+h3{
+    margin-top: 7px;
+    margin-left: 10px;
+
+}
+
+
+
+
